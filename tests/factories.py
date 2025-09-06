@@ -1,3 +1,4 @@
+"""
 Test Factory to make fake objects for testing
 """
 import factory
